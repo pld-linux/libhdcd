@@ -5,13 +5,13 @@
 Summary:	Library for High Definition Compatible Digital (HDCD) decoding and analysis
 Summary(pl.UTF-8):	Biblioteka do dekodowania i analizy HDCD (High Definition Compatible Digital)
 Name:		libhdcd
-Version:	1.3
-Release:	1
+Version:	1.4
+Release:	2
 License:	BSD (library), Apache v2.0 (hdcd-detect tool)
 Group:		Libraries
 #Source0Download: https://github.com/bp0/libhdcd/releases
 Source0:	https://github.com/bp0/libhdcd/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	f9d93bedd53ceae27db98968a493ec22
+# Source0-md5:	ac853ae776c1e1847cf27015dc0cd48b
 URL:		https://github.com/bp0/libhdcd
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake >= 1.6
